@@ -1,0 +1,1 @@
+Trabalho da matéria de Banco de Dados onde foi desenvolvido diagramas DER, EER, Pé de Galinha, e Srcipt SQL DDL junto de outro para população do banco, tudo isso a partir de uma descrição minimundo também desenvolvida.
